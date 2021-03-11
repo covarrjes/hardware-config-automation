@@ -1,9 +1,9 @@
-# VLSM Calculator
+# Switch & Router Automation
 
-An IPv4 subnets calculator using orignal host, original subnet mask and desired subnet mask.
+Automating switch and router configurations (wip)
 
 # References
-[IP Addressing and Subnetting for New Users](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html) 
+[Configuring Router and Switch Devices](https://www.cisco.com/c/en/us/td/docs/security/security_management/cs-mars/4-3/user/guide/local_controller/cfgrtrsw.html) 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
